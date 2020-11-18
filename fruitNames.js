@@ -1,4 +1,2 @@
 apple 
 organe
-banana
-pear
